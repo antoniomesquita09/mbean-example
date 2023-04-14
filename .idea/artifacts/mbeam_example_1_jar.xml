@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mbeam-example-1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mbeam_example_1_jar</output-path>
+    <root id="archive" name="mbeam-example-1.jar">
+      <element id="module-output" name="mbeam-example-1" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jolokia/jolokia-core/1.7.2/jolokia-core-1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
